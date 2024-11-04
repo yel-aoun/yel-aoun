@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Youssef Elaouny</h1>
 <h3 align="center">A passionate Backend developer from Morocco</h3>
 
-- 📫 How to reach me **yel-aoun@student.1337.ma**
+- 📫 How to reach me **youssef.elaouny1010@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
