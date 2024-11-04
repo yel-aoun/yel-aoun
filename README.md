@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Youssef Elaouny</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Backend developer from Morocco</h3>
 
 - 📫 How to reach me **yel-aoun@student.1337.ma**
 
