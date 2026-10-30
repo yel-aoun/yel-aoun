@@ -1,56 +1,52 @@
-# Hi 👋, I'm Youssef Elaouny
+# Youssef El-Aouny
 
-### Backend Developer | Morocco 🇲🇦
+**Backend Developer · Node.js, TypeScript & Java**  
+Rabat, Morocco · 1337 Coding School alumnus
 
-I build scalable backend systems, APIs, and real-time applications.  
-Currently focused on **Node.js, NestJS, system design, and trading automation**.
+I build APIs and backend services for electronic signatures, certificate management, and document workflows. I also develop complete business applications, including e-commerce platforms and tools for invoicing and inventory management.
 
----
+Previously at **P-Key**, I worked on PKI services with EJBCA, authentication with Keycloak, and blockchain timestamping using Solidity, NestJS, and RabbitMQ.
 
-## 🚀 About Me
-- 🔧 Backend-focused developer (APIs, architecture, performance)
-- 📊 Building a **crypto scalping bot with multiple strategies**
-- ⚙️ Interested in **systems, automation, and tech-driven business**
-- 🧠 Always improving problem-solving and system design skills
+## Selected Work
 
----
+### [Khatm](https://www.khatm.io/)
+Electronic-signature platform currently in development. I am building the Java PDF-signing service and backend workflows for documents, signers, authentication, and signature verification.
 
-## 🌐 Connect with Me
-- 💼 LinkedIn: https://www.linkedin.com/in/youssef-el-aouny/
-- 🧠 LeetCode: https://leetcode.com/yel-aoun/
-- 📫 Email: youssef.elaouny1010@gmail.com
+**Focus:** PDF signing, PAdES, REST APIs, multi-signer workflows.
 
----
+### [Moustapha Phone](https://github.com/yel-aoun/MoustaphaPhone)
+Full-stack e-commerce application for a phone and accessories retailer. Includes a product catalogue, cart, WhatsApp ordering, order tracking, and an administration dashboard.
 
-## 🛠️ Tech Stack
+**Stack:** React, Node.js, PostgreSQL, Tailwind CSS, Vercel, Playwright.
 
-### Backend
-`Node.js` `NestJS` `Express` `MongoDB` `PostgreSQL`
+### Commercial Management Application
+Business software for Moroccan SMEs covering quotations, invoices, deliveries, payments, and inventory. Includes supplier-invoice scanning with OCR, PDF generation, and VAT reporting.
 
-### DevOps & Tools
-`Docker` `NGINX` `Linux` `Git`
+**Stack:** Node.js, Express, libSQL/Turso, Puppeteer, Tesseract.js.
 
-### Languages
-`JavaScript` `TypeScript` `C` `C++`
+I also developed **Moments & More**, a trilingual e-commerce application with Arabic RTL support, order management, and search adapted to Arabic and Darija spelling variations.
 
-### Frontend (Basic)
-`React` `Next.js` `Tailwind CSS`
+## Technical Skills
 
----
+| Area | Technologies |
+| --- | --- |
+| Backend | Node.js, TypeScript, JavaScript, NestJS, Express, Java |
+| Digital signatures & identity | PAdES, X.509, EJBCA, Keycloak, OAuth2, OpenID Connect |
+| Blockchain | Solidity, EVM, Hardhat, ethers.js |
+| Databases & messaging | PostgreSQL, MongoDB, libSQL/Turso, RabbitMQ |
+| Frontend | React, Next.js, Tailwind CSS |
+| Systems & tooling | C, C++, Linux, Docker, Git, Playwright |
 
-## 📈 Current Focus
-- Advanced backend architecture
-- High-performance trading systems
-- Writing clean, production-ready code
+## Systems Foundations
 
----
+My training at **1337**, part of the 42 Network, focused on project-based software development, Unix systems, networking, and collaborative problem-solving.
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yel-aoun&show_icons=true&theme=tokyonight)
+- **[WebServ](https://github.com/yel-aoun/WebServ)** — HTTP/1.1 server in C++98 with non-blocking I/O, CGI support, configuration files, and file uploads.
+- **[Minishell](https://github.com/yel-aoun/minishell)** — Unix shell in C with command parsing, pipes, redirections, heredocs, and signal handling.
+- **[C++ Modules](https://github.com/yel-aoun/CPP-Modules)** — Projects covering object-oriented programming and core C++ concepts.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yel-aoun&layout=compact&theme=tokyonight)
+## Contact
 
----
+Interested in backend, full-stack, and digital-trust opportunities.
 
-## ⚡ Fun Fact
-I don’t just write code — I build systems that can **make decisions and generate value**.
+[LinkedIn](https://www.linkedin.com/in/youssef-el-aouny/) · [youssef.elaouny@proton.me](mailto:youssef.elaouny@proton.me)
